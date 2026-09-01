@@ -1,5 +1,5 @@
 # Customer-Transaction-Analysis
-I worked on customer transaction data in various ways. Firstly, i cleaned data to make it sophisticated for further analysis. Then i made exploratory analysis in order to get full picture.
+I worked on customer transaction data in various ways. Firstly, i cleaned data to make it sophisticated for further analysis. Then i made exploratory analysis in order to get the full picture.
 
 Detailed review:
 In the data cleaning phase, I created formulas to reclassify products to their correct categories: Electronics, Furniture, and Office Supplies. I also extracted year, month, and quarter attributes from purchase dates for easy tracking over time and added a audit math check that confirmed zero calculation errors across the entire dataset. With the help of Power Query, I made sure that all columns types were appropiate, also trimmed and did set first letter uppercase PaymentMethod column.
